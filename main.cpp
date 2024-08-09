@@ -10,6 +10,8 @@ int main(){
 	AR=area(numAlfa, numAlfa);
 
 	std::cout << "Numeros de prueba: " << "Area: " << AR << " Exponente: " << EXP << std::endl;
+	
+	std::cout << "Saludos Mundo!" << std::endl;
 
 	return 0;
 }
