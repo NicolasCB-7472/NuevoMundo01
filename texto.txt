@@ -1,3 +1,4 @@
 Esto es una prueba para utilizar Git y GitHub
 
-Faltaria trabajar con branches
+Faltaria trabajar con branches y algunos comandos
+
